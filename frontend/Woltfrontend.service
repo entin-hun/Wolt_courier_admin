@@ -1,0 +1,15 @@
+[Unit]
+Description=Wolt Frontend Static Server
+After=network.target
+
+[Service]
+Type=simple
+User=balint
+WorkingDirectory=/opt/stb/courier/frontend
+Environment=PATH=/home/balint/.nvm/versions/node/v20.19.0/bin:$PATH
+#ExecStart=/usr/bin/env npx serve -s build -l 1881
+ExecStart=/usr/local/bin/serve -s build -l 1881
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
