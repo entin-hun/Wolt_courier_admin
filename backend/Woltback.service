@@ -1,0 +1,12 @@
+[Unit]
+Description=Wolt admin backend  Node.js Service
+After=network.target
+
+[Service]
+User=balint
+WorkingDirectory=/opt/stb/courier/backend
+ExecStart=/home/balint/.nvm/versions/node/v20.19.0/bin/node src/index.js
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
