@@ -1,0 +1,292 @@
+{"level":"info","message":"Connected to MongoDB: mongodb+srv://balint:jccZv3hztJjIkMiD@freelance.xf5ph.mongodb.net/?retryWrites=true&w=majority&appName=freelance","service":"wolt-data-collector","timestamp":"2025-04-16 15:16:31"}
+{"level":"info","message":"Server running on port 3003","service":"wolt-data-collector","timestamp":"2025-04-16 15:16:31"}
+{"level":"info","message":"Starting Wolt data collection scheduler","service":"wolt-data-collector","timestamp":"2025-04-16 15:16:31"}
+{"level":"info","message":"Scheduler started successfully","service":"wolt-data-collector","timestamp":"2025-04-16 15:16:31"}
+{"level":"info","message":"Running immediate data collection on startup","service":"wolt-data-collector","timestamp":"2025-04-16 15:16:31"}
+{"level":"info","message":"Running data collection (isFirstRun: false)","service":"wolt-data-collector","timestamp":"2025-04-16 15:16:31"}
+{"level":"info","message":"Starting data collection at 2025-04-16T13:16:31.921Z","service":"wolt-data-collector","timestamp":"2025-04-16 15:16:31"}
+{"level":"info","message":"Refreshing auth tokens...","service":"wolt-data-collector","timestamp":"2025-04-16 15:16:31"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"0","34":"1","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error refreshing token:","service":"wolt-data-collector","timestamp":"2025-04-16 15:16:32"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"0","34":"1","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error getting valid token:","service":"wolt-data-collector","timestamp":"2025-04-16 15:16:32"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"0","34":"1","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error during data collection:","service":"wolt-data-collector","timestamp":"2025-04-16 15:16:32"}
+{"level":"info","message":"Data collection completed, tracking enabled","service":"wolt-data-collector","timestamp":"2025-04-16 15:16:32"}
+{"level":"info","message":"Running idle courier tracking","service":"wolt-data-collector","timestamp":"2025-04-16 15:18:01"}
+{"level":"info","message":"Starting idle courier tracking...","service":"wolt-data-collector","timestamp":"2025-04-16 15:18:01"}
+{"level":"info","message":"Refreshing auth tokens...","service":"wolt-data-collector","timestamp":"2025-04-16 15:18:01"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"0","34":"1","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error refreshing token:","service":"wolt-data-collector","timestamp":"2025-04-16 15:18:01"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"0","34":"1","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error getting valid token:","service":"wolt-data-collector","timestamp":"2025-04-16 15:18:01"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"0","34":"1","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error during idle courier tracking:","service":"wolt-data-collector","timestamp":"2025-04-16 15:18:01"}
+{"level":"info","message":"Running idle courier tracking","service":"wolt-data-collector","timestamp":"2025-04-16 15:20:00"}
+{"level":"info","message":"Starting idle courier tracking...","service":"wolt-data-collector","timestamp":"2025-04-16 15:20:00"}
+{"level":"info","message":"Refreshing auth tokens...","service":"wolt-data-collector","timestamp":"2025-04-16 15:20:00"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"0","34":"1","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error refreshing token:","service":"wolt-data-collector","timestamp":"2025-04-16 15:20:00"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"0","34":"1","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error getting valid token:","service":"wolt-data-collector","timestamp":"2025-04-16 15:20:00"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"0","34":"1","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error during idle courier tracking:","service":"wolt-data-collector","timestamp":"2025-04-16 15:20:00"}
+{"level":"info","message":"Running idle courier tracking","service":"wolt-data-collector","timestamp":"2025-04-16 15:22:00"}
+{"level":"info","message":"Starting idle courier tracking...","service":"wolt-data-collector","timestamp":"2025-04-16 15:22:00"}
+{"level":"info","message":"Refreshing auth tokens...","service":"wolt-data-collector","timestamp":"2025-04-16 15:22:00"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"0","34":"1","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error refreshing token:","service":"wolt-data-collector","timestamp":"2025-04-16 15:22:00"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"0","34":"1","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error getting valid token:","service":"wolt-data-collector","timestamp":"2025-04-16 15:22:00"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"0","34":"1","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error during idle courier tracking:","service":"wolt-data-collector","timestamp":"2025-04-16 15:22:00"}
+{"level":"info","message":"Running idle courier tracking","service":"wolt-data-collector","timestamp":"2025-04-16 15:24:00"}
+{"level":"info","message":"Starting idle courier tracking...","service":"wolt-data-collector","timestamp":"2025-04-16 15:24:00"}
+{"level":"info","message":"Refreshing auth tokens...","service":"wolt-data-collector","timestamp":"2025-04-16 15:24:00"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"0","34":"1","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error refreshing token:","service":"wolt-data-collector","timestamp":"2025-04-16 15:24:00"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"0","34":"1","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error getting valid token:","service":"wolt-data-collector","timestamp":"2025-04-16 15:24:00"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"0","34":"1","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error during idle courier tracking:","service":"wolt-data-collector","timestamp":"2025-04-16 15:24:00"}
+{"level":"info","message":"Running idle courier tracking","service":"wolt-data-collector","timestamp":"2025-04-16 15:26:00"}
+{"level":"info","message":"Starting idle courier tracking...","service":"wolt-data-collector","timestamp":"2025-04-16 15:26:00"}
+{"level":"info","message":"Refreshing auth tokens...","service":"wolt-data-collector","timestamp":"2025-04-16 15:26:00"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"0","34":"1","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error refreshing token:","service":"wolt-data-collector","timestamp":"2025-04-16 15:26:00"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"0","34":"1","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error getting valid token:","service":"wolt-data-collector","timestamp":"2025-04-16 15:26:00"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"0","34":"1","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error during idle courier tracking:","service":"wolt-data-collector","timestamp":"2025-04-16 15:26:00"}
+{"level":"info","message":"Running continuous data collection","service":"wolt-data-collector","timestamp":"2025-04-16 15:28:00"}
+{"level":"info","message":"Running data collection (isFirstRun: false)","service":"wolt-data-collector","timestamp":"2025-04-16 15:28:00"}
+{"level":"info","message":"Starting data collection at 2025-04-16T13:28:00.552Z","service":"wolt-data-collector","timestamp":"2025-04-16 15:28:00"}
+{"level":"info","message":"Skipping tracking job as data collection is in progress","service":"wolt-data-collector","timestamp":"2025-04-16 15:28:00"}
+{"level":"info","message":"Refreshing auth tokens...","service":"wolt-data-collector","timestamp":"2025-04-16 15:28:00"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"0","34":"1","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error refreshing token:","service":"wolt-data-collector","timestamp":"2025-04-16 15:28:00"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"0","34":"1","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error getting valid token:","service":"wolt-data-collector","timestamp":"2025-04-16 15:28:00"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"0","34":"1","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error during data collection:","service":"wolt-data-collector","timestamp":"2025-04-16 15:28:00"}
+{"level":"info","message":"Data collection completed, tracking enabled","service":"wolt-data-collector","timestamp":"2025-04-16 15:28:00"}
+{"level":"info","message":"Connected to MongoDB: mongodb+srv://balint:jccZv3hztJjIkMiD@freelance.xf5ph.mongodb.net/?retryWrites=true&w=majority&appName=freelance","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:02"}
+{"level":"info","message":"Server running on port 3003","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:02"}
+{"level":"info","message":"Starting Wolt data collection scheduler","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:02"}
+{"level":"info","message":"Scheduler started successfully","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:02"}
+{"level":"info","message":"Running immediate data collection on startup","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:02"}
+{"level":"info","message":"Running data collection (isFirstRun: false)","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:02"}
+{"level":"info","message":"Starting data collection at 2025-04-16T13:29:02.564Z","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:02"}
+{"level":"info","message":"Refreshing auth tokens...","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:02"}
+{"level":"info","message":"Tokens updated successfully. Expires in 1800 seconds.","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:02"}
+{"level":"info","message":"Fetching courier list...","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:02"}
+{"level":"info","message":"Updated existing courier: 6074677","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:03"}
+{"level":"info","message":"Courier 6074677 already in Coda with row ID: i-sSs0XAqGzJ","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:03"}
+{"level":"info","message":"Updated existing courier: 6074960","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:03"}
+{"level":"info","message":"Courier 6074960 already in Coda with row ID: i-cFhI2eSyhI","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:03"}
+{"level":"info","message":"Updated existing courier: 6037213","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:04"}
+{"level":"info","message":"Courier 6037213 already in Coda with row ID: i-YxmtDSIoaS","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:04"}
+{"level":"info","message":"Updated existing courier: 6037218","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:04"}
+{"level":"info","message":"Courier 6037218 already in Coda with row ID: i-iArzlybG0S","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:04"}
+{"level":"info","message":"Updated existing courier: 6216925","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:05"}
+{"level":"info","message":"Courier 6216925 already in Coda with row ID: i-A5LXRs2ssz","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:05"}
+{"level":"info","message":"Updated existing courier: 6150716","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:06"}
+{"level":"info","message":"Courier 6150716 already in Coda with row ID: i-QzvDR1OXSe","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:06"}
+{"level":"info","message":"Updated existing courier: 6150711","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:06"}
+{"level":"info","message":"Courier 6150711 already in Coda with row ID: i-K8I1iGgQrE","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:06"}
+{"level":"info","message":"Updated existing courier: 6430950","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:07"}
+{"level":"info","message":"Courier 6430950 already in Coda with row ID: i-JAI3EJ71A3","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:07"}
+{"level":"info","message":"Updated existing courier: 6074678","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:07"}
+{"level":"info","message":"Courier 6074678 already in Coda with row ID: i-iUm_C7vtuY","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:07"}
+{"level":"info","message":"Updated existing courier: 5994315","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:08"}
+{"level":"info","message":"Courier 5994315 already in Coda with row ID: i-sHUczH1w7v","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:08"}
+{"level":"info","message":"Updated existing courier: 5994317","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:08"}
+{"level":"info","message":"Courier 5994317 already in Coda with row ID: i-6GwPKZZ_2T","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:08"}
+{"level":"info","message":"Updated existing courier: 6074977","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:09"}
+{"level":"info","message":"Courier 6074977 already in Coda with row ID: i-FG5y1LHWB6","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:09"}
+{"level":"info","message":"Updated existing courier: 6074978","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:10"}
+{"level":"info","message":"Courier 6074978 already in Coda with row ID: i-wgXsZbWjn7","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:10"}
+{"level":"info","message":"Updated existing courier: 6074963","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:10"}
+{"level":"info","message":"Courier 6074963 already in Coda with row ID: i-mrYq35WlXY","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:10"}
+{"level":"info","message":"Updated existing courier: 6074972","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:11"}
+{"level":"info","message":"Courier 6074972 already in Coda with row ID: i-I6NcnX0us1","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:11"}
+{"level":"info","message":"Updated existing courier: 6074676","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:11"}
+{"level":"info","message":"Adding courier 6074676 to Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:11"}
+{"level":"info","message":"Updated existing courier: 5994312","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:15"}
+{"level":"info","message":"Courier 5994312 already in Coda with row ID: i-APgOEhbamD","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:15"}
+{"level":"info","message":"Updated existing courier: 6074673","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:15"}
+{"level":"info","message":"Courier 6074673 already in Coda with row ID: i-fTFDXFyLB9","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:16"}
+{"level":"info","message":"Updated existing courier: 6037212","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:16"}
+{"level":"info","message":"Courier 6037212 already in Coda with row ID: i-k5cj4qF7DA","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:16"}
+{"level":"info","message":"Updated existing courier: 6037211","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:17"}
+{"level":"info","message":"Courier 6037211 already in Coda with row ID: i-pJKUWbL_YZ","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:17"}
+{"level":"info","message":"Updated existing courier: 6074675","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:17"}
+{"level":"info","message":"Courier 6074675 already in Coda with row ID: i-8WiMCvY2lf","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:17"}
+{"level":"info","message":"Updated existing courier: 6150715","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:18"}
+{"level":"info","message":"Courier 6150715 already in Coda with row ID: i-lW2kbPFlGO","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:18"}
+{"level":"info","message":"Updated existing courier: 6150712","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:18"}
+{"level":"info","message":"Courier 6150712 already in Coda with row ID: i-GIp-_IZexF","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:18"}
+{"level":"info","message":"Updated existing courier: 6216926","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:19"}
+{"level":"info","message":"Courier 6216926 already in Coda with row ID: i-f2X5Hab4DF","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:19"}
+{"level":"info","message":"Updated existing courier: 5994313","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:20"}
+{"level":"info","message":"Courier 5994313 already in Coda with row ID: i-LdPAwhbP2I","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:20"}
+{"level":"info","message":"Updated existing courier: 6216928","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:20"}
+{"level":"info","message":"Courier 6216928 already in Coda with row ID: i-OzVQVGccQ4","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:20"}
+{"level":"info","message":"Updated existing courier: 6037214","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:21"}
+{"level":"info","message":"Courier 6037214 already in Coda with row ID: i-Y6MY5SGOGg","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:21"}
+{"level":"info","message":"Updated existing courier: 6192981","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:21"}
+{"level":"info","message":"Courier 6192981 already in Coda with row ID: i-A6ZLnuBY1g","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:21"}
+{"level":"info","message":"Updated existing courier: 6192978","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:22"}
+{"level":"info","message":"Courier 6192978 already in Coda with row ID: i-rmqEIEzUDD","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:22"}
+{"level":"info","message":"Updated existing courier: 6192979","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:23"}
+{"level":"info","message":"Courier 6192979 already in Coda with row ID: i-CqHR4wuYVj","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:23"}
+{"level":"info","message":"Updated existing courier: 6192983","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:23"}
+{"level":"info","message":"Courier 6192983 already in Coda with row ID: i-NL-uw1TuOe","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:23"}
+{"level":"info","message":"Updated existing courier: 6430947","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:24"}
+{"level":"info","message":"Courier 6430947 already in Coda with row ID: i-1ZVISnnkPu","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:24"}
+{"level":"info","message":"Updated existing courier: 6430952","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:24"}
+{"level":"info","message":"Courier 6430952 already in Coda with row ID: i-0Vx9IceqUj","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:24"}
+{"level":"info","message":"Updated existing courier: 6430956","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:25"}
+{"level":"info","message":"Courier 6430956 already in Coda with row ID: i-qDSDtFCNMq","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:25"}
+{"level":"info","message":"Updated existing courier: 6430948","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:25"}
+{"level":"info","message":"Courier 6430948 already in Coda with row ID: i-NFw54QNVXV","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:25"}
+{"level":"info","message":"Updated existing courier: 6430953","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:26"}
+{"level":"info","message":"Courier 6430953 already in Coda with row ID: i-SKa9AbB0_L","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:26"}
+{"level":"info","message":"Updated existing courier: 6430954","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:27"}
+{"level":"info","message":"Courier 6430954 already in Coda with row ID: i-71FZU2ypMH","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:27"}
+{"level":"info","message":"Updated existing courier: 6430951","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:27"}
+{"level":"info","message":"Courier 6430951 already in Coda with row ID: i-YRid6dKAwF","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:27"}
+{"level":"info","message":"Updated existing courier: 6430949","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:28"}
+{"level":"info","message":"Courier 6430949 already in Coda with row ID: i-f791wFUyj5","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:28"}
+{"level":"info","message":"Updated existing courier: 6216927","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:28"}
+{"level":"info","message":"Courier 6216927 already in Coda with row ID: i-8wcHsXu9P0","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:28"}
+{"level":"info","message":"Updated existing courier: 5994314","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:29"}
+{"level":"info","message":"Courier 5994314 already in Coda with row ID: i-xfx70Eyn3e","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:29"}
+{"level":"info","message":"Updated existing courier: 6074974","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:30"}
+{"level":"info","message":"Courier 6074974 already in Coda with row ID: i-aFr9OIpK6g","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:30"}
+{"level":"info","message":"Updated existing courier: 6150714","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:30"}
+{"level":"info","message":"Courier 6150714 already in Coda with row ID: i-vDMCVK1s1v","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:30"}
+{"level":"info","message":"Updated existing courier: 6216924","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:31"}
+{"level":"info","message":"Courier 6216924 already in Coda with row ID: i-hbFSUvDTlW","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:31"}
+{"level":"info","message":"Updated existing courier: 6074976","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:31"}
+{"level":"info","message":"Courier 6074976 already in Coda with row ID: i-JIAsgYZcv3","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:31"}
+{"level":"info","message":"Updated existing courier: 6074975","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:32"}
+{"level":"info","message":"Courier 6074975 already in Coda with row ID: i-fYGurK74SW","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:32"}
+{"level":"info","message":"Updated existing courier: 6074973","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:32"}
+{"level":"info","message":"Courier 6074973 already in Coda with row ID: i-hHx5GHjipB","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:33"}
+{"level":"info","message":"Updated existing courier: 6150710","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:33"}
+{"level":"info","message":"Courier 6150710 already in Coda with row ID: i-XN4MjILdw9","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:33"}
+{"level":"info","message":"Updated existing courier: 6430955","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:34"}
+{"level":"info","message":"Courier 6430955 already in Coda with row ID: i-C1b6ckYzfY","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:34"}
+{"level":"info","message":"Updated existing courier: 6326983","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:34"}
+{"level":"info","message":"Courier 6326983 already in Coda with row ID: i-TSOMU2RIIP","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:34"}
+{"level":"info","message":"Updated existing courier: 6326982","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:35"}
+{"level":"info","message":"Courier 6326982 already in Coda with row ID: i-mwE9iLDuUe","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:35"}
+{"level":"info","message":"Updated existing courier: 5994319","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:35"}
+{"level":"info","message":"Courier 5994319 already in Coda with row ID: i-mdTCbfv_vo","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:35"}
+{"level":"info","message":"Updated existing courier: 6192980","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:36"}
+{"level":"info","message":"Courier 6192980 already in Coda with row ID: i-TRGBAT1IT1","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:36"}
+{"level":"info","message":"Updated existing courier: 6192982","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:37"}
+{"level":"info","message":"Courier 6192982 already in Coda with row ID: i-PaymF0Ji2L","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:37"}
+{"level":"info","message":"Updated existing courier: 6074674","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:37"}
+{"level":"info","message":"Courier 6074674 already in Coda with row ID: i--PltOD9azE","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:37"}
+{"level":"info","message":"Updated existing courier: 6192984","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:38"}
+{"level":"info","message":"Courier 6192984 already in Coda with row ID: i-AU8_8mVB3J","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:38"}
+{"level":"info","message":"Updated existing courier: 6150713","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:38"}
+{"level":"info","message":"Courier 6150713 already in Coda with row ID: i-bKd93NSfA7","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:38"}
+{"level":"info","message":"Updated existing courier: 6216929","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:39"}
+{"level":"info","message":"Courier 6216929 already in Coda with row ID: i-QhWv_XCLaQ","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:39"}
+{"level":"info","message":"Updated existing courier: 5994316","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:40"}
+{"level":"info","message":"Courier 5994316 already in Coda with row ID: i-sJcv19EMLD","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:40"}
+{"level":"info","message":"Fetching courier metrics from 2025-04-15 to 2025-04-16...","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:40"}
+{"level":"info","message":"Fetching courier earnings from 2025-04-15 to 2025-04-16...","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:41"}
+{"level":"info","message":"Added 1 new earnings transactions for courier 6074976","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:41"}
+{"level":"info","message":"Added 1 new earnings transactions for courier 6074673","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:41"}
+{"level":"info","message":"Added 6 new earnings transactions for courier 6074977","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:41"}
+{"level":"info","message":"Added 1 new earnings transactions for courier 6074975","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:41"}
+{"level":"info","message":"Added 5 new earnings transactions for courier 6192981","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:41"}
+{"level":"info","message":"Added 1 new earnings transactions for courier 6037212","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:41"}
+{"level":"info","message":"Added 6 new earnings transactions for courier 6074675","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:41"}
+{"level":"info","message":"Added 1 new earnings transactions for courier 6430956","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:41"}
+{"level":"info","message":"Added 1 new earnings transactions for courier 6216928","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:41"}
+{"level":"info","message":"Added 5 new earnings transactions for courier 6430947","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:41"}
+{"level":"info","message":"Added 7 new earnings transactions for courier 6074677","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:41"}
+{"level":"info","message":"Added 5 new earnings transactions for courier 6430948","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:42"}
+{"level":"info","message":"Added 1 new earnings transactions for courier 6074674","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:42"}
+{"level":"info","message":"Added 7 new earnings transactions for courier 6074978","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:42"}
+{"level":"info","message":"Added 6 new earnings transactions for courier 6216926","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:42"}
+{"level":"info","message":"Added 6 new earnings transactions for courier 6037218","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:42"}
+{"level":"info","message":"Added 1 new earnings transactions for courier 6192984","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:42"}
+{"level":"info","message":"Added 5 new earnings transactions for courier 6216929","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:42"}
+{"level":"info","message":"Added 1 new earnings transactions for courier 6074974","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:42"}
+{"level":"info","message":"Added 1 new earnings transactions for courier 6150714","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:42"}
+{"level":"info","message":"Added 6 new earnings transactions for courier 6326983","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:42"}
+{"level":"info","message":"Added 1 new earnings transactions for courier 6074973","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:42"}
+{"level":"info","message":"Added 5 new earnings transactions for courier 6074963","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:42"}
+{"level":"info","message":"Added 6 new earnings transactions for courier 6037213","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:42"}
+{"level":"info","message":"Added 7 new earnings transactions for courier 6074960","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:42"}
+{"level":"info","message":"Added 6 new earnings transactions for courier 5994314","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:42"}
+{"level":"info","message":"Added 5 new earnings transactions for courier 6150715","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:42"}
+{"level":"info","message":"Added 6 new earnings transactions for courier 6326982","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:42"}
+{"level":"info","message":"Added 1 new earnings transactions for courier 6192983","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:42"}
+{"level":"info","message":"Fetching cash balances...","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:42"}
+{"level":"info","message":"Updated cash balance for courier 6074977: 83 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:42"}
+{"level":"info","message":"Updating cash balance for row i-FG5y1LHWB6 in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:42"}
+{"level":"info","message":"Updated Coda integration for courier 6074977","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:43"}
+{"level":"info","message":"Updated cash balance for courier 5994317: 42 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:44"}
+{"level":"info","message":"Updating cash balance for row i-6GwPKZZ_2T in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:44"}
+{"level":"info","message":"Updated Coda integration for courier 5994317","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:44"}
+{"level":"info","message":"Updated cash balance for courier 6037218: 80 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:45"}
+{"level":"info","message":"Updating cash balance for row i-iArzlybG0S in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:45"}
+{"level":"info","message":"Updated Coda integration for courier 6037218","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:48"}
+{"level":"info","message":"Updated cash balance for courier 6150715: 74 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:49"}
+{"level":"info","message":"Updating cash balance for row i-lW2kbPFlGO in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:49"}
+{"level":"info","message":"Updated Coda integration for courier 6150715","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:50"}
+{"level":"info","message":"Updated cash balance for courier 6074675: 48 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:50"}
+{"level":"info","message":"Updating cash balance for row i-8WiMCvY2lf in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:50"}
+{"level":"info","message":"Updated Coda integration for courier 6074675","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:51"}
+{"level":"info","message":"Updated cash balance for courier 6074974: -23 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:52"}
+{"level":"info","message":"Updating cash balance for row i-aFr9OIpK6g in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:52"}
+{"level":"info","message":"Updated Coda integration for courier 6074974","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:54"}
+{"level":"info","message":"Updated cash balance for courier 6326982: 36 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:55"}
+{"level":"info","message":"Updating cash balance for row i-mwE9iLDuUe in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:55"}
+{"level":"info","message":"Updated Coda integration for courier 6326982","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:57"}
+{"level":"info","message":"Updated cash balance for courier 6150712: 24 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:58"}
+{"level":"info","message":"Updating cash balance for row i-GIp-_IZexF in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:58"}
+{"level":"info","message":"Updated Coda integration for courier 6150712","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:58"}
+{"level":"info","message":"Updated cash balance for courier 6074674: 24 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:59"}
+{"level":"info","message":"Updating cash balance for row i--PltOD9azE in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:59"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"2","34":"9","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error updating cash balance in Coda for row i--PltOD9azE:","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:59"}
+{"level":"info","message":"Updated Coda integration for courier 6074674","service":"wolt-data-collector","timestamp":"2025-04-16 15:29:59"}
+{"level":"info","message":"Updated cash balance for courier 6074973: 15 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:00"}
+{"level":"info","message":"Updating cash balance for row i-hHx5GHjipB in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:00"}
+{"level":"info","message":"Skipping tracking job as data collection is in progress","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:00"}
+{"level":"info","message":"Updated Coda integration for courier 6074973","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:00"}
+{"level":"info","message":"Updated cash balance for courier 6150711: 0 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:01"}
+{"level":"info","message":"Updating cash balance for row i-K8I1iGgQrE in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:01"}
+{"level":"info","message":"Updated Coda integration for courier 6150711","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:02"}
+{"level":"info","message":"Updated cash balance for courier 6150710: 85 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:03"}
+{"level":"info","message":"Updating cash balance for row i-XN4MjILdw9 in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:03"}
+{"level":"info","message":"Updated Coda integration for courier 6150710","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:05"}
+{"level":"info","message":"Updated cash balance for courier 6074677: 60 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:06"}
+{"level":"info","message":"Updating cash balance for row i-sSs0XAqGzJ in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:06"}
+{"level":"info","message":"Updated Coda integration for courier 6074677","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:07"}
+{"level":"info","message":"Updated cash balance for courier 6192978: 28 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:08"}
+{"level":"info","message":"Updating cash balance for row i-rmqEIEzUDD in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:08"}
+{"level":"info","message":"Updated Coda integration for courier 6192978","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:11"}
+{"level":"info","message":"Updated cash balance for courier 6216924: 36 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:11"}
+{"level":"info","message":"Updating cash balance for row i-hbFSUvDTlW in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:11"}
+{"level":"info","message":"Updated Coda integration for courier 6216924","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:12"}
+{"level":"info","message":"Updated cash balance for courier 6216925: 34 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:13"}
+{"level":"info","message":"Updating cash balance for row i-A5LXRs2ssz in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:13"}
+{"level":"info","message":"Updated Coda integration for courier 6216925","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:13"}
+{"level":"info","message":"Updated cash balance for courier 6326983: 72 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:14"}
+{"level":"info","message":"Updating cash balance for row i-TSOMU2RIIP in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:14"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"2","34":"9","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error updating cash balance in Coda for row i-TSOMU2RIIP:","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:14"}
+{"level":"info","message":"Updated Coda integration for courier 6326983","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:14"}
+{"level":"info","message":"Updated cash balance for courier 6074678: 60 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:15"}
+{"level":"info","message":"Updating cash balance for row i-iUm_C7vtuY in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:15"}
+{"level":"info","message":"Updated Coda integration for courier 6074678","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:16"}
+{"level":"info","message":"Updated cash balance for courier 6074975: 20 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:16"}
+{"level":"info","message":"Updating cash balance for row i-fYGurK74SW in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:16"}
+{"level":"info","message":"Updated Coda integration for courier 6074975","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:19"}
+{"level":"info","message":"Updated cash balance for courier 6074976: 16 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:20"}
+{"level":"info","message":"Updating cash balance for row i-JIAsgYZcv3 in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:20"}
+{"level":"info","message":"Updated Coda integration for courier 6074976","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:20"}
+{"level":"info","message":"Updated cash balance for courier 6074673: 26 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:21"}
+{"level":"info","message":"Updating cash balance for row i-fTFDXFyLB9 in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:21"}
+{"0":"R","1":"e","10":"i","11":"l","12":"e","13":"d","14":" ","15":"w","16":"i","17":"t","18":"h","19":" ","2":"q","20":"s","21":"t","22":"a","23":"t","24":"u","25":"s","26":" ","27":"c","28":"o","29":"d","3":"u","30":"e","31":" ","32":"4","33":"2","34":"9","4":"e","5":"s","6":"t","7":" ","8":"f","9":"a","level":"error","message":"Error updating cash balance in Coda for row i-fTFDXFyLB9:","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:21"}
+{"level":"info","message":"Updated Coda integration for courier 6074673","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:21"}
+{"level":"info","message":"Updated cash balance for courier 6192984: 65 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:22"}
+{"level":"info","message":"Updating cash balance for row i-AU8_8mVB3J in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:22"}
+{"level":"info","message":"Updated Coda integration for courier 6192984","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:23"}
+{"level":"info","message":"Updated cash balance for courier 6074963: 29 HUF","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:24"}
+{"level":"info","message":"Updating cash balance for row i-mrYq35WlXY in Coda...","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:24"}
+{"level":"info","message":"Updated Coda integration for courier 6074963","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:27"}
+{"level":"info","message":"Data collection completed at 2025-04-16T13:30:28.630Z","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:28"}
+{"level":"info","message":"Data collection completed, tracking enabled","service":"wolt-data-collector","timestamp":"2025-04-16 15:30:28"}
+{"level":"info","message":"Running idle courier tracking","service":"wolt-data-collector","timestamp":"2025-04-16 15:32:00"}
+{"level":"info","message":"Starting idle courier tracking...","service":"wolt-data-collector","timestamp":"2025-04-16 15:32:00"}
+{"level":"info","message":"Fetching courier statuses...","service":"wolt-data-collector","timestamp":"2025-04-16 15:32:00"}
+{"level":"info","message":"Found 3 couriers with idle status","service":"wolt-data-collector","timestamp":"2025-04-16 15:32:00"}
+{"level":"info","message":"Fetching locations for 3 couriers...","service":"wolt-data-collector","timestamp":"2025-04-16 15:32:00"}
+{"level":"info","message":"Loaded 21 hotspots from CSV.","service":"wolt-data-collector","timestamp":"2025-04-16 15:32:01"}
