@@ -11,17 +11,17 @@ dotenv.config();
 
 class WoltDataCollector {
   constructor() {
-    this.companyId = "a9f4f268-7112-4572-bebd-473df4a1c2c4";
     this.authUrl = "https://authentication.wolt.com/v1/wauth2/access_token";
     this.metricsUrl = `https://delivery-os-metrics.wolt.com/companies/${this.companyId}/metrics/v2`;
     this.earningsUrl = `https://delivery-os-earnings.wolt.com/companies/${this.companyId}/earnings`;
     this.cashBalancesUrl = `https://delivery-os-metrics.wolt.com/companies/${this.companyId}/cash-balances`;
     this.couriersUrl = `https://fleet-management.wolt.com/companies/${this.companyId}/couriers`;
+    this.companyId = process.env.WOLT_companyId;
+    this.timezone = process.env.TZ;
     this.codaApiToken = process.env.CODA_API_TOKEN;
     this.codaDocId = process.env.CODA_DOC_ID;
     this.codaTableId = process.env.CODA_TABLE_ID;
     this.codaRowsAPI = `https://coda.io/apis/v1/docs/${this.codaDocId}/tables/${this.codaTableId}/rows`;
-    this.timezone = "Europe/Budapest";
   }
   //ok verified
   async refreshToken(refreshToken) {
