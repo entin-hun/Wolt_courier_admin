@@ -384,6 +384,32 @@ class WoltDataCollector {
     for (const courier of couriers) {
       try {
         // Convert Wolt API courier format to our model format with Unix timestamps
+        function convertToUTCTimestamp(dateString) {
+          try {
+            dateString = dateString.split('T');
+            const dateFormatRegex = /^\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])$/i;
+            if (typeof dateString !== 'string' || !dateFormatRegex.test(dateString)) {
+              return null;
+            } else {
+              const parts = dateString.split('-');
+              const year = parseInt(parts[0], 10);
+              const month = parseInt(parts[1], 10); // 1-indexed from string
+              const day = parseInt(parts[2], 10);
+              const utcDate = new Date(Date.UTC(year, month - 1, day, 0, 0, 0, 0));
+              if (month === 2 && day > 29) {
+                return null;
+              } else if (utcDate.getUTCFullYear() !== year ||
+                utcDate.getUTCMonth() !== (month - 1) ||
+                utcDate.getUTCDate() !== day) {
+                return null;
+              }
+              return utcDate.getTime();
+            }
+          } catch (err) {
+            logger.info(`Error while converting timstamp to UTC for courier id :${courier.id} is :\n: ${err} `);
+            return null;
+          }
+        }
         const toMilliseconds = (timestamp) =>
           timestamp ? new Date(timestamp).getTime() : null;
 
