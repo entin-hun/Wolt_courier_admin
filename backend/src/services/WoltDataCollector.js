@@ -26,7 +26,7 @@ class WoltDataCollector {
   //ok verified
   async refreshToken(refreshToken) {
     try {
-      logger.info("Refreshing auth tokens...");
+      // logger.info("Refreshing auth tokens...");
 
       const response = await axios.post(
         this.authUrl,
